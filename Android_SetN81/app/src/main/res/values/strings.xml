@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"> hello</string>
+    <string name="app_name">安默串口调试工具</string>
+    <string name="adid">ca-app-pub-7888464047936141~9816752609</string>
+    <string name="ascii"> ASCII</string>
+    <string name="hex"> HEX</string>
+
+    <string name="clean"> 清除</string>
+    <string name="auto"> 自清</string>
+    <string name="send_hint"> 输入要发送的内容</string>
+    <string name="dev_path"> 串口路径</string>
+
+
+    <string name="baudrate"> 波特率</string>
+    <string name="databits"> 数据位</string>
+    <string name="stopbits"> 停止位</string>
+    <string name="parity"> 校验方式</string>
+
+
+    <string name="auto_send_time"> 设定自动发送时间间隔</string>
+    <string name="auto_send"> 自动发送</string>
+    <string name="send">发送</string>
+
+    <string name="app_info">1.此 安默 串口调试工具 支持 数据位 校验位 校验方式的设定(默认是N-8-1)，\n2.有任何建议问题，请联系<a href="https://github.com/silencefun/ComTest/tree/master/Android_SetN81">github@siencefun</a> ,欢迎STAR.    \n3.选择自清则接收区域达到500项自动清除 </string>
+
+</resources>

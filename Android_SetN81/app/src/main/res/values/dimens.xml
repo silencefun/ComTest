@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">25dp</dimen>
+
+
+    <!-- 菜单栏标题字体 -->
+    <dimen name="HeadTitleTextSize">36sp</dimen>
+    <!-- 正文字体 -->
+    <dimen name="NormalTextSize">26sp</dimen>
+    <!-- 正文字体 -->
+    <dimen name="XXLargeTextSize">60sp</dimen>
+    <!-- 正文字体 -->
+    <dimen name="SmallTextSize">20sp</dimen>
+    <!-- 正文字体 -->
+    <dimen name="SSmallTextSize">16sp</dimen>
+
+    <!--分割线-->
+    <dimen name="frame_padding">16dp</dimen>
+    <dimen name="divider_line">1dp</dimen>
+    <dimen name="tabIndicatorHeight">2dp</dimen>
+    <dimen name="navigation_bar_hight">48dp</dimen>
+    <dimen name="tabLayout_hight">64dp</dimen>
+</resources>
