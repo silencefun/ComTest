@@ -29,3 +29,6 @@ https://stackoverflow.com/questions/47504229/android-jni-cmake-member-reference-
 并不怎么了解C与C++的差异，
 解决办法为把扩展名.cpp改成.c
 同样还有 在Cmakelist 中也要改成.c
+
+其下目录有Eclipse 项目源码和Android Studio 源码 以及自己使用本机debug 密钥打包的 Android调试工具和 PC 端调试工具（一年多看了下几百个人转存和下载，都不能点个赞吗->_>），
+百度云链接: https://pan.baidu.com/s/1nw37xu5 密码: qscc
